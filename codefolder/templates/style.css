@@ -1,0 +1,50 @@
+.inputPart{
+    width: 100%;
+}
+.inputPart td{
+width: 33%;
+text-align: center;
+}
+.headTitle{
+    text-align: center; 
+}
+.links-text{
+    font-size: 16pt;
+    margin: 25px;
+    color: #232323;
+    }
+.Error404-text{
+    font-size: 32pt;
+    margin: 25px;
+    color: #232323;
+}
+#container {
+    min-width: 310px;
+    max-width: 800px;
+    height: 400px;
+    margin: 0 auto
+  }
+  .Bank_NameA{
+    height: 70px;
+    width: 70px;
+    background-position: 50% 50%;
+    background-size: contain;
+    text-align: center;
+  }
+  .Bank_NameK{
+    height: 70px;
+    width: 70px;
+    background-position: 50% 50%;
+    background-size: contain;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .bank-text{
+    font-size: 25pt;
+    margin: 7px;
+    font-weight: bold;
+    color: #232323;
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+  }

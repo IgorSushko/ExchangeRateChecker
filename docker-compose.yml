@@ -1,0 +1,8 @@
+version: '2'
+services:
+  dbmn_icoapi:
+    image: mongo
+    container_name: dbmongo
+    restart: always
+    ports:
+        - 27017:27017
